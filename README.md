@@ -512,13 +512,20 @@ Again, for full details on the security and privacy control catalog, see
 
 ## 🚀 Step 9: Decommission Lab Resources  
 
-1. Logged back into the [Azure Portal](https://portal.azure.com).  
-2. Navigated to **Resource groups** and selected `jkzh-emass`.  
-3. Verified all dependent resources (VM, NSG, VNet, Public IP, disks).  
-4. Clicked **Delete resource group** to decommission the entire lab.  
-5. Confirmed deletion prompt to remove all resources tied to `jkzh-emass`.  
+Once testing and validation were complete, I decommissioned the environment to ensure no costs or exposed resources remained active in Azure.  
 
-- See below: Resource group deletion process (I'll add this before making public)
+1. Logged into the [Azure Portal](https://portal.azure.com).  
+2. Navigated to **Resource groups**.  
+3. Located the resource group `jkzh-emass`.  
+4. Right-clicked `jkzh-emass` > selected **Delete resource group**.  
+5. Entered the resource group name to confirm deletion.  
+6. Verified all associated resources (VM `jkzh-dc01`, VNet, NSG, Public IP, etc.) were removed.  
+
+This step simulated the **Disposal** phase of the RMF system life cycle, where environments must be securely decommissioned to avoid unnecessary exposure or costs.  
+
+- See below: Resource group `jkzh-emass` successfully deleted  
+<img width="559" height="778" alt="Screenshot 2025-08-23 173827" src="https://github.com/user-attachments/assets/e6136527-0568-4a7b-8245-9382530445dd" />
+<img width="468" height="196" alt="Screenshot 2025-08-23 173948" src="https://github.com/user-attachments/assets/6e57834b-8923-4285-b0d5-daecd8daa989" />
 
 ---
 
