@@ -1,4 +1,4 @@
-# JKZH AD DS RMF/eMASS Mapping Project  
+# JKZH Active Directory RMF Control Mapping with eMASS Alignment
 
 ## Applied Skills and Knowledge  
 
@@ -600,5 +600,5 @@ This lab was built strictly for educational purposes and cybersecurity skill dev
 
 ## 🙏 Thank You  
 
-Thank you for taking the time to review my RMF/eMASS Mapping project. This project reflects my ability to design, document, and secure enterprise environments while aligning with federal compliance frameworks. I am excited to continue building projects like this to strengthen and prove my skills as I advance in my cybersecurity career.  
+Thank you for taking the time to review my RMF Mapping project. This project reflects my ability to design, document, and secure enterprise environments while aligning with federal compliance frameworks. I am excited to continue building projects like this to strengthen and prove my skills as I advance in my cybersecurity career.  
 
