@@ -14,7 +14,8 @@ This project reflects my ability to stand up AD DS infrastructure in the cloud w
 
 ## Objective  
 
-The goal of this project was to deploy a domain controller in Azure, configure Active Directory services, and apply security baseline GPOs that demonstrate compliance with RMF and eMASS control mappings. By doing so, I simulated how enterprises enforce security policies, enforce least privilege through group management, and document compliance within federal environments.  
+The goal of this project was to design and deploy a domain controller in Azure, configure Active Directory services, and implement baseline security Group Policy Objects mapped to RMF controls with alignment to eMASS workflows. Through this lab, I simulated how enterprises enforce security policies, apply least privilege via group and role management, and generate compliance-ready documentation expected in federal environments.
+
 
 ---
 
