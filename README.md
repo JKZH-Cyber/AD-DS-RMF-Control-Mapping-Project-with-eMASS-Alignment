@@ -1,4 +1,4 @@
-# JKZH Active Directory RMF Control Mapping with eMASS Alignment
+# JKZH Active Directory RMF Control Mapping Project with eMASS Alignment
 
 ## Applied Skills and Knowledge  
 
